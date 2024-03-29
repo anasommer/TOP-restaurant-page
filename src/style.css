@@ -23,7 +23,7 @@ body {
 #content {
   margin: 10% auto;
   text-align: center;
-  width: 800px;
+  width: 600px;
   background-color: rgba(0, 0, 0, 0.3);
   padding: 30px;
 }
@@ -50,4 +50,16 @@ button:hover {
   text-decoration: underline;
   color: #fff;
   transition: all 0.3s;
+}
+
+div {
+  color: #fff;
+}
+
+p {
+  margin: 10px;
+}
+
+.price {
+  margin-bottom: 20px;
 }

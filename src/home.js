@@ -1,5 +1,6 @@
 export default function homepage() {
   const contentEl = document.querySelector('#content');
+  contentEl.innerHTML = '';
 
   const h1 = document.createElement('h1');
   h1.textContent = `Wine & Dine`;
