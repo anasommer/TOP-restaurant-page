@@ -18,6 +18,10 @@ export default function menu() {
         <h2>Wine</h2>
         <p>A bottle of selected red or white wine</p>
         <p class='price'>$45</p>
+
+        <h2>Choice of wines</h2>
+        <p>A choice of selected red and white wines - 5 glasses</p>
+        <p class='price'>$145</p>
         `;
 
   contentEl.appendChild(menuItems);
