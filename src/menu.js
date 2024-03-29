@@ -1,6 +1,5 @@
 export default function menu() {
   const contentEl = document.querySelector('#content');
-  contentEl.innerHTML = '';
 
   const menuItems = document.createElement('div');
 
